@@ -28,7 +28,7 @@ n=int(input())
 ```
 
 ## Output
-![output](/output.png)
+![output](output.png)
 
 ## Result:
 Thus the Circulate the value of n variables are successfully executed
